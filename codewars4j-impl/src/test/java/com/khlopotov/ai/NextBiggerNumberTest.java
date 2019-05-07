@@ -1,4 +1,4 @@
-package tests;
+package com.khlopotov.ai;
 
 import com.khlopotov.ai.NextBiggerNumber;
 import org.junit.Test;
